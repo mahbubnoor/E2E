@@ -1,0 +1,104 @@
+{
+    "utts": {
+        "06527-002d56ccd9": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:996969",
+                    "name": "input1",
+                    "shape": [
+                        348,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        30,
+                        40
+                    ],
+                    "text": "\u09b6\u09bf\u0995\u09cd\u09b7\u0995\u09b0\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u09ad\u09ac\u09a8\u09c7\u09b0 \u09b8\u09be\u09ae\u09a8\u09c7",
+                    "token": "\u09b6 \u09bf \u0995 \u09cd \u09b7 \u0995 \u09b0 \u09be <space> \u09aa \u09cd \u09b0 \u09b6 \u09be \u09b8 \u09a8 \u09bf \u0995 <space> \u09ad \u09ac \u09a8 \u09c7 \u09b0 <space> \u09b8 \u09be \u09ae \u09a8 \u09c7",
+                    "tokenid": "27 33 9 37 28 9 25 32 2 20 37 25 27 32 29 19 33 9 2 22 21 19 36 25 2 29 32 23 19 36"
+                }
+            ],
+            "utt2spk": "06527"
+        },
+        "06527-004a64d0e4": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:581177",
+                    "name": "input1",
+                    "shape": [
+                        338,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        22,
+                        40
+                    ],
+                    "text": "\u09aa\u09cd\u09b0\u09b6\u0982\u09b8\u09be \u0995\u09b0\u09c7\u099b\u09c7\u09a8 \u099c\u09a8 \u0995\u09c7\u09b0\u09bf",
+                    "token": "\u09aa \u09cd \u09b0 \u09b6 \u0982 \u09b8 \u09be <space> \u0995 \u09b0 \u09c7 \u099b \u09c7 \u09a8 <space> \u099c \u09a8 <space> \u0995 \u09c7 \u09b0 \u09bf",
+                    "tokenid": "20 37 25 27 1 29 32 2 9 25 36 1 36 19 2 13 19 2 9 36 25 33"
+                }
+            ],
+            "utt2spk": "06527"
+        },
+        "06527-06ee36a934": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:241113",
+                    "name": "input1",
+                    "shape": [
+                        348,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        14,
+                        40
+                    ],
+                    "text": "\u09ec\u09e9,\u09e6\u09e6\u09e6 \u0995\u09b0\u09cd\u09ae\u09c0\u0995\u09c7",
+                    "token": "\u09ec \u09e9 , \u09e6 \u09e6 \u09e6 <space> \u0995 \u09b0 \u09cd \u09ae \u09c0 \u0995 \u09c7",
+                    "tokenid": "1 1 1 1 1 1 2 9 25 37 23 34 9 36"
+                }
+            ],
+            "utt2spk": "06527"
+        },
+        "06527-08bdc9d79f": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:356681",
+                    "name": "input1",
+                    "shape": [
+                        298,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        17,
+                        40
+                    ],
+                    "text": "\u09b8\u09b0\u0995\u09be\u09b0\u09bf \u09b8\u09c1\u09ac\u09bf\u09a7\u09be\u09ad\u09cb\u0997\u09c0",
+                    "token": "\u09b8 \u09b0 \u0995 \u09be \u09b0 \u09bf <space> \u09b8 \u09c1 \u09ac \u09bf \u09a7 \u09be \u09ad \u09cb \u0997 \u09c0",
+                    "tokenid": "29 25 9 32 25 33 2 29 35 21 33 1 32 22 1 11 34"
+                }
+            ],
+            "utt2spk": "06527"
+        }
+    }
+}

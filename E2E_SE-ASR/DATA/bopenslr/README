@@ -1,0 +1,13 @@
+This directory contains the bopenslr database audio files.files were organized between train and test floder
+
+The files are in NIST's Sphere format, where files have a 1024-byte 
+header describing the data format.
+
+The directories contain:
+
+-wav/bopenslr_train: training data set.
+
+-wav/bopenslr_test: test data set.
+
+-etc: directory containing the transcriptions.
+

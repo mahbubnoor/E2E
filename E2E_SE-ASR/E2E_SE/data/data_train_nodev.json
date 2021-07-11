@@ -1,0 +1,279 @@
+{
+    "utts": {
+        "06527-08c5441795": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:799033",
+                    "name": "input1",
+                    "shape": [
+                        278,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        40
+                    ],
+                    "text": "\u0995\u09c1\u09b6\u09b2 \u09b8\u09bf\u09b2\u09ad\u09be\u0995\u09c7",
+                    "token": "\u0995 \u09c1 \u09b6 \u09b2 <space> \u09b8 \u09bf \u09b2 \u09ad \u09be \u0995 \u09c7",
+                    "tokenid": "9 35 27 26 2 29 33 26 22 32 9 36"
+                }
+            ],
+            "utt2spk": "06527"
+        },
+        "06527-08d168dc9d": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:152105",
+                    "name": "input1",
+                    "shape": [
+                        268,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        40
+                    ],
+                    "text": "\u09a8\u09c0\u09b0\u09ac \u098f \u09ac\u09a8\u099f\u09bf",
+                    "token": "\u09a8 \u09c0 \u09b0 \u09ac <space> \u098f <space> \u09ac \u09a8 \u099f \u09bf",
+                    "tokenid": "19 34 25 21 2 7 2 21 19 15 33"
+                }
+            ],
+            "utt2spk": "06527"
+        },
+        "06527-08ffe228a7": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:891361",
+                    "name": "input1",
+                    "shape": [
+                        318,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        23,
+                        40
+                    ],
+                    "text": "\u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u09c7\u09b0 \u0986\u0997\u09c7\u09b0 \u09a6\u09c1\u0987 \u09a6\u09bf\u09a8",
+                    "token": "\u09a8 \u09bf \u09b0 \u09cd \u09ac \u09be \u099a \u09a8 \u09c7 \u09b0 <space> \u0986 \u0997 \u09c7 \u09b0 <space> \u09a6 \u09c1 \u0987 <space> \u09a6 \u09bf \u09a8",
+                    "tokenid": "19 33 25 37 21 32 12 19 36 25 2 4 11 36 25 2 18 35 5 2 18 33 19"
+                }
+            ],
+            "utt2spk": "06527"
+        },
+        "06527-09b68194de": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:455649",
+                    "name": "input1",
+                    "shape": [
+                        378,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        30,
+                        40
+                    ],
+                    "text": "\u099c\u09c1\u09b2\u09bf\u09af\u09bc\u09c7\u099f\u0995\u09c7 \u09ac\u09bf\u09af\u09bc\u09c7 \u0995\u09b0\u09a4\u09c7 \u09a8\u09be \u09aa\u09be\u09b0\u09b2\u09c7",
+                    "token": "\u099c \u09c1 \u09b2 \u09bf \u09af \u09bc \u09c7 \u099f \u0995 \u09c7 <space> \u09ac \u09bf \u09af \u09bc \u09c7 <space> \u0995 \u09b0 \u09a4 \u09c7 <space> \u09a8 \u09be <space> \u09aa \u09be \u09b0 \u09b2 \u09c7",
+                    "tokenid": "13 35 26 33 24 31 36 15 9 36 2 21 33 24 31 36 2 9 25 17 36 2 19 32 2 20 32 25 26 36"
+                }
+            ],
+            "utt2spk": "06527"
+        },
+        "06527-09d73976fe": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:17",
+                    "name": "input1",
+                    "shape": [
+                        458,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        21,
+                        40
+                    ],
+                    "text": "\u09ae\u09be\u099c\u09bf\u09a6\u09c7\u09b0 \u09aa\u09b0\u09c7\u09b0 \u09b8\u09c1\u09b2\u09a4\u09be\u09a8\u09b0\u09be",
+                    "token": "\u09ae \u09be \u099c \u09bf \u09a6 \u09c7 \u09b0 <space> \u09aa \u09b0 \u09c7 \u09b0 <space> \u09b8 \u09c1 \u09b2 \u09a4 \u09be \u09a8 \u09b0 \u09be",
+                    "tokenid": "23 32 13 33 18 36 25 2 20 25 36 25 2 29 35 26 17 32 19 25 32"
+                }
+            ],
+            "utt2spk": "06527"
+        },
+        "06527-0a0035c57b": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:693425",
+                    "name": "input1",
+                    "shape": [
+                        318,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        20,
+                        40
+                    ],
+                    "text": "\u09ac\u09c7\u09b6\u09bf \u0995\u0987\u09b0\u09be \u09aa\u09bf\u0981\u09aa\u09a1\u09bc\u09be \u0996\u09be",
+                    "token": "\u09ac \u09c7 \u09b6 \u09bf <space> \u0995 \u0987 \u09b0 \u09be <space> \u09aa \u09bf \u0981 \u09aa \u09a1 \u09bc \u09be <space> \u0996 \u09be",
+                    "tokenid": "21 36 27 33 2 9 5 25 32 2 20 33 3 20 16 31 32 2 10 32"
+                }
+            ],
+            "utt2spk": "06527"
+        },
+        "06736-01e2c31008": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:1204865",
+                    "name": "input1",
+                    "shape": [
+                        258,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        40
+                    ],
+                    "text": "\u09b8\u09be\u09b2\u09be\u09ae\u09c7\u09b0 \u09ae\u09c1\u0996",
+                    "token": "\u09b8 \u09be \u09b2 \u09be \u09ae \u09c7 \u09b0 <space> \u09ae \u09c1 \u0996",
+                    "tokenid": "29 32 26 32 23 36 25 2 23 35 10"
+                }
+            ],
+            "utt2spk": "06736"
+        },
+        "06736-01e8ee3cee": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:1372921",
+                    "name": "input1",
+                    "shape": [
+                        288,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        16,
+                        40
+                    ],
+                    "text": "\u09b8\u09ae\u09cd\u09ae\u09c7\u09b2\u09a8\u09c7 \u0993 \u0989\u09ce\u09b8\u09ac\u09c7",
+                    "token": "\u09b8 \u09ae \u09cd \u09ae \u09c7 \u09b2 \u09a8 \u09c7 <space> \u0993 <space> \u0989 \u09ce \u09b8 \u09ac \u09c7",
+                    "tokenid": "29 23 37 23 36 26 19 36 2 8 2 6 38 29 21 36"
+                }
+            ],
+            "utt2spk": "06736"
+        },
+        "06736-02c2b3ac1a": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:1468569",
+                    "name": "input1",
+                    "shape": [
+                        248,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        26,
+                        40
+                    ],
+                    "text": "\u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8 \u0993 \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf \u09ac\u09bf\u09b7\u09af\u09bc\u0995",
+                    "token": "\u09ac \u09bf \u099c \u09cd \u099e \u09be \u09a8 <space> \u0993 <space> \u09aa \u09cd \u09b0 \u09af \u09c1 \u0995 \u09cd \u09a4 \u09bf <space> \u09ac \u09bf \u09b7 \u09af \u09bc \u0995",
+                    "tokenid": "21 33 13 37 14 32 19 2 8 2 20 37 25 24 35 9 37 17 33 2 21 33 28 24 31 9"
+                }
+            ],
+            "utt2spk": "06736"
+        },
+        "06736-0306fc58c6": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:1112537",
+                    "name": "input1",
+                    "shape": [
+                        278,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        19,
+                        40
+                    ],
+                    "text": "\u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8\u09bf \u09ac\u09be\u09b9\u09bf\u09a8\u09c0\u0995\u09c7",
+                    "token": "\u09aa \u09be \u0995 \u09bf \u09b8 \u09cd \u09a4 \u09be \u09a8 \u09bf <space> \u09ac \u09be \u09b9 \u09bf \u09a8 \u09c0 \u0995 \u09c7",
+                    "tokenid": "20 32 9 33 29 37 17 32 19 33 2 21 32 30 33 19 34 9 36"
+                }
+            ],
+            "utt2spk": "06736"
+        },
+        "06736-032d8979ea": {
+            "input": [
+                {
+                    "feat": "/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/data/BOpenSlr_fbank/bopenslr_fbank.ark:1290553",
+                    "name": "input1",
+                    "shape": [
+                        248,
+                        83
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        40
+                    ],
+                    "text": "\u09a4\u09be \u09ad\u09c1\u09b2\u09c7 \u09af\u09be\u09af\u09bc",
+                    "token": "\u09a4 \u09be <space> \u09ad \u09c1 \u09b2 \u09c7 <space> \u09af \u09be \u09af \u09bc",
+                    "tokenid": "17 32 2 22 35 26 36 2 24 32 24 31"
+                }
+            ],
+            "utt2spk": "06736"
+        }
+    }
+}
