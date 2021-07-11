@@ -1,0 +1,3 @@
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_2/DATA/bopenslr_se/test/n/01e91/01e91-00b25bf18a.wav
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_2/DATA/bopenslr_se/test/n/01e91/01e91-00b1a91838.wav
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_2/DATA/bopenslr_se/test/n/01e91/01e91-013a376e49.wav

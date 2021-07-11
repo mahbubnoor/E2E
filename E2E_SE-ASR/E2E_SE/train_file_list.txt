@@ -1,0 +1,10 @@
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/E2E_SE_output/spec/train/noisy/06736/06736-01e2c31008.pt
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/E2E_SE_output/spec/train/noisy/06736/06736-01e8ee3cee.pt
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/E2E_SE_output/spec/train/noisy/06527/06527-0a0035c57b.pt
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/E2E_SE_output/spec/train/noisy/06527/06527-002d56ccd9.pt
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/E2E_SE_output/spec/train/noisy/06527/06527-06ee36a934.pt
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/E2E_SE_output/spec/train/noisy/06736/06736-032d8979ea.pt
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/E2E_SE_output/spec/train/noisy/06527/06527-08bdc9d79f.pt
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/E2E_SE_output/spec/train/noisy/06736/06736-02c2b3ac1a.pt
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/E2E_SE_output/spec/train/noisy/06736/06736-0306fc58c6.pt
+/Data/user_mhb/End2End_bopenslr/End2End_prac_openslr_SE_1/E2E_SE_output/spec/train/noisy/06527/06527-004a64d0e4.pt
