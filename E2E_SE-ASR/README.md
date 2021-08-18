@@ -2,6 +2,7 @@
 1. Install Kaldi
 2. Install ESPnet
 
+# Steps to follow
 #/E2E_ASR
 1. start exceution of ASR recipe by typing run.sh in "/ESPnet/espnet/egs/Bengali_OpenSLr_ASR/asr_original_clean_data_Train/run.sh" until Dictionary and JSON format data preparation stages.
 2. python gen_fbank.py to generate the FBank feature as the input for ASR model training.
