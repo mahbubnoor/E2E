@@ -15,3 +15,5 @@ cp ../espnet/egs/Bengali_OpenSLr_ASR/asr_original_clean_data_Train/exp/train_nod
 #/E2E_SE
 1. modify data PATHS in the run.sh
 2. sh run.sh 
+
+#Note: This is just a practice code to follow. Full final versions codes are yet to ready to upload
