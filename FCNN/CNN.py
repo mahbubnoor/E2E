@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Dec 27 01:07:35 2017
-@author: Jason
 Edited by Md Mahbub E Noor Thurs Sep 03 02:11:30 PM 2020
 """
 import os
@@ -72,7 +70,7 @@ def get_filenames(ListPath):
     return FileList;
    
 ######################### Training data #########################
-Train_Noisy_paths = get_filenames("/Data/user_mhb/se_openslr2/list/compressed_tr10k.txt")
+Train_Noisy_paths = get_filenames("/Data/user_mhb/se_openslr2/list/noisy.txt")
 #Train_Noisy_paths=Train_Noisy_paths[0:100]
 Train_Noisy_wavename=[]
 for path in Train_Noisy_paths:
@@ -81,7 +79,7 @@ for path in Train_Noisy_paths:
     Train_Noisy_wavename.append(S)
     #pdb.set_trace()
     
-Train_Clean_paths = get_filenames("/Data/user_mhb/se_openslr2/list/clean_tr10k.txt")
+Train_Clean_paths = get_filenames("/Data/user_mhb/se_openslr2/list/clean.txt")
 #Train_Clean_paths=Train_Clean_paths[0:100]
 Train_Clean_wavename=[]
 for path in Train_Clean_paths:
@@ -96,7 +94,7 @@ random.shuffle(permute)
 Train_Noisy_paths=shuffle_list(Train_Noisy_paths,permute)
 Train_Noisy_wavename=shuffle_list(Train_Noisy_wavename,permute)
 ######################### Test_set #############################
-Test_Noisy_paths = get_filenames("/Data/user_mhb/se_openslr2/list/compressed_valid.txt")
+Test_Noisy_paths = get_filenames("/Data/user_mhb/se_openslr2/list/noisy_valid.txt")
 #Test_Noisy_paths=Test_Noisy_paths[0:138]
 Test_Noisy_wavename=[]
 for path in Test_Noisy_paths:
